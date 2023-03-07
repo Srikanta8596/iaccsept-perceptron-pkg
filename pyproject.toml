@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/Srikanta8596/iaccsept-perceptron"
-"Bug Tracker" = "https://github.com/Srikanta8596/iaccsept-perceptron/issues"
+"Homepage" = "https://github.com/Srikanta8596/iaccsept-perceptron-pkg"
+"Bug Tracker" = "https://github.com/Srikanta8596/iaccsept-perceptron-pkg/issues"
