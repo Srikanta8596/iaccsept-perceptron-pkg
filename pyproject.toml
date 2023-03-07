@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "iaccsept-perceptron"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Srikanta", email="srikantabiswal8093@gmail.com" },
 ]
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/iaccsept-perceptron"
-"Bug Tracker" = "https://github.com/pypa/iaccsept-perceptron/issues"
+"Homepage" = "https://github.com/pypa/iaccsept_perceptron"
+"Bug Tracker" = "https://github.com/pypa/iaccsept_perceptron/issues"
