@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0","numpy==1.21.0","pandas==1.1.5","joblib==1.2.0"]
+requires = ["setuptools>=61.0","numpy==1.21.4","pandas==1.1.5","joblib==1.2.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -10,7 +10,7 @@ authors = [
 ]
 description = "Perceptron paper code"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
